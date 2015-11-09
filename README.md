@@ -1,4 +1,4 @@
-# DevBox-Golong
+# DevBox-Golang
 *Vagrant box backed by Docker or Virtualbox, with Ansible provisioning*
 
 A Vagrant box (Virtualbox or Docker as providers) with Ansible provisioning
